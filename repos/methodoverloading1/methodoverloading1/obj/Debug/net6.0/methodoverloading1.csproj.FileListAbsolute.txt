@@ -1,0 +1,5 @@
+C:\Users\iamab\source\repos\methodoverloading1\methodoverloading1\obj\Debug\net6.0\methodoverloading1.csproj.AssemblyReference.cache
+C:\Users\iamab\source\repos\methodoverloading1\methodoverloading1\obj\Debug\net6.0\methodoverloading1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamab\source\repos\methodoverloading1\methodoverloading1\obj\Debug\net6.0\methodoverloading1.AssemblyInfoInputs.cache
+C:\Users\iamab\source\repos\methodoverloading1\methodoverloading1\obj\Debug\net6.0\methodoverloading1.AssemblyInfo.cs
+C:\Users\iamab\source\repos\methodoverloading1\methodoverloading1\obj\Debug\net6.0\methodoverloading1.csproj.CoreCompileInputs.cache

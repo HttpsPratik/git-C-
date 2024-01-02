@@ -1,0 +1,15 @@
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.csproj.AssemblyReference.cache
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.AssemblyInfoInputs.cache
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.AssemblyInfo.cs
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.csproj.CoreCompileInputs.cache
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\bin\Debug\net6.0\ConstructorDemo.exe
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\bin\Debug\net6.0\ConstructorDemo.deps.json
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\bin\Debug\net6.0\ConstructorDemo.runtimeconfig.json
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\bin\Debug\net6.0\ConstructorDemo.dll
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\bin\Debug\net6.0\ConstructorDemo.pdb
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.dll
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\refint\ConstructorDemo.dll
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.pdb
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ConstructorDemo.genruntimeconfig.cache
+C:\Users\iamab\source\repos\ConstructorDemo\ConstructorDemo\obj\Debug\net6.0\ref\ConstructorDemo.dll

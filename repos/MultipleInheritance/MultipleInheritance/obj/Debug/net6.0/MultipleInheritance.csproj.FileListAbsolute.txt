@@ -1,0 +1,5 @@
+C:\Users\iamab\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\iamab\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamab\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\iamab\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.AssemblyInfo.cs
+C:\Users\iamab\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.csproj.CoreCompileInputs.cache

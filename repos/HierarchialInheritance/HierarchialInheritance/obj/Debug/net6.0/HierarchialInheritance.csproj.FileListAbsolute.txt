@@ -1,0 +1,15 @@
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\obj\Debug\net6.0\HierarchialInheritance.csproj.AssemblyReference.cache
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\obj\Debug\net6.0\HierarchialInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\obj\Debug\net6.0\HierarchialInheritance.AssemblyInfoInputs.cache
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\obj\Debug\net6.0\HierarchialInheritance.AssemblyInfo.cs
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\obj\Debug\net6.0\HierarchialInheritance.csproj.CoreCompileInputs.cache
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\bin\Debug\net6.0\HierarchialInheritance.exe
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\bin\Debug\net6.0\HierarchialInheritance.deps.json
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\bin\Debug\net6.0\HierarchialInheritance.runtimeconfig.json
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\bin\Debug\net6.0\HierarchialInheritance.dll
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\bin\Debug\net6.0\HierarchialInheritance.pdb
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\obj\Debug\net6.0\HierarchialInheritance.dll
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\obj\Debug\net6.0\refint\HierarchialInheritance.dll
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\obj\Debug\net6.0\HierarchialInheritance.pdb
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\obj\Debug\net6.0\HierarchialInheritance.genruntimeconfig.cache
+C:\Users\iamab\source\repos\HierarchialInheritance\HierarchialInheritance\obj\Debug\net6.0\ref\HierarchialInheritance.dll

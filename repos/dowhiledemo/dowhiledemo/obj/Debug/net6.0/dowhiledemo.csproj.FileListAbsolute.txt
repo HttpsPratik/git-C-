@@ -1,0 +1,15 @@
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\bin\Debug\net6.0\dowhiledemo.exe
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\bin\Debug\net6.0\dowhiledemo.deps.json
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\bin\Debug\net6.0\dowhiledemo.runtimeconfig.json
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\bin\Debug\net6.0\dowhiledemo.dll
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\bin\Debug\net6.0\dowhiledemo.pdb
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\obj\Debug\net6.0\dowhiledemo.csproj.AssemblyReference.cache
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\obj\Debug\net6.0\dowhiledemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\obj\Debug\net6.0\dowhiledemo.AssemblyInfoInputs.cache
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\obj\Debug\net6.0\dowhiledemo.AssemblyInfo.cs
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\obj\Debug\net6.0\dowhiledemo.csproj.CoreCompileInputs.cache
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\obj\Debug\net6.0\dowhiledemo.dll
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\obj\Debug\net6.0\refint\dowhiledemo.dll
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\obj\Debug\net6.0\dowhiledemo.pdb
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\obj\Debug\net6.0\dowhiledemo.genruntimeconfig.cache
+C:\Users\iamab\source\repos\dowhiledemo\dowhiledemo\obj\Debug\net6.0\ref\dowhiledemo.dll
