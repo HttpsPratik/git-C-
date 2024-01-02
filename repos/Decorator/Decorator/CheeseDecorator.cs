@@ -14,9 +14,13 @@ namespace Decorator
         : base(pizza) { }
         
 
-        public  string Bake()
+        public override string Bake()
         {
-            return base.Bake() + "Cheese";
+            return base.Bake() + addCheese();
+        }
+        public string addCheese()
+        {
+            return "\n Extra Cheese";
         }
         
     }

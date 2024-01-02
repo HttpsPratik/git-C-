@@ -16,7 +16,11 @@ namespace Decorator
 
         public override string Bake()
         {
-            return base.Bake() + "Chicken";
+            return base.Bake() + addChicken();
+        }
+        public string addChicken()
+        {
+            return "\n Male Chicken";
         }
      
     }    
