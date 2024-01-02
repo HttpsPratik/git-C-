@@ -2,5 +2,5 @@
 
 public interface IPizza
 {
-    public string Bake();
+     string Bake();
 }

@@ -14,13 +14,10 @@ namespace Decorator
         : base(pizza) { }
         
 
-        public string Bake()
+        public  string Bake()
         {
-            return pizza.Bake() + addCheese();
+            return base.Bake() + "Cheese";
         }
-        public string addCheese()
-        {
-            return "Cheese";
-        }
+        
     }
 }

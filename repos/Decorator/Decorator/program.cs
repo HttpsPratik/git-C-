@@ -2,12 +2,14 @@
 
 namespace Decorator
 {
-class program
-    {
-        static void Main()
+
+        class Program
         {
-         IPizza pizza= new CheeseDecorator(new BasePizza());
-            Console.WriteLine(pizza.Bake() );
+            static void Main()
+            {
+                IPizza pizza = new ChickenDecorator(new CheeseDecorator(new BasePizza()));
+                Console.WriteLine(pizza.Bake());
+            }
         }
     }
-}
+

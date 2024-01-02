@@ -14,7 +14,7 @@ namespace Decorator
         {
             this.pizza= pizza;
         }
-        public string Bake()
+        public virtual string Bake()
         {
             return pizza.Bake();    
         }
