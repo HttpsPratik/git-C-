@@ -4,7 +4,6 @@ from polls.models import results, vote
 
 from . import views
 
-
 app_name = 'polls'
 urlpatterns = [
     path('', views.index, name="index"),
