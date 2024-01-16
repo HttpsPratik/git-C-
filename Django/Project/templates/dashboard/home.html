@@ -50,9 +50,12 @@
                               <td>{{ s.description }}</td>
                               <td>{{ s.image }}</td>
                               <td>
-                                  <a href="/dashboard/delete-dashboard/{{ s.id }}" class="btn btn-danger btn-sm mb-2">Delete</a>
-                                  <a href="/dashboard/update-dashboard/{{ s.id }}" class="btn btn-success btn-sm">Update</a>
-                              </td>
+                                <div class="d-flex justify-content-end">
+                                    <a href="/dashboard/delete-dashboard/{{ s.id }}" class="btn btn-danger btn-md " style="margin-right: 10px;">Delete</a>
+                                    <a href="/dashboard/update-dashboard/{{ s.id }}" class="btn btn-success btn-md">Update</a>
+                                </div>
+                            </td>
+                            
                           </tr>
                           {% endfor %}
                       </tbody>

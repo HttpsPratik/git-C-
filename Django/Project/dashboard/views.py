@@ -37,7 +37,7 @@ def delete_dashboard(request,name):
    return redirect("/dashboard/home/")
   
 def update_dashboard(request, name):
-   
+   dashboard=Comment.objects.get(pk=name)
    return render(request,"dashboard/update_adoption.html",{'dashboard':dashboard})
 
 def do_update_dashboard(request, name):
@@ -53,4 +53,4 @@ def do_update_dashboard(request, name):
     dashboard.image = dashboard_image
     
     dashboard.save()
-    return redirect("/dashboard/home/")
+    return redirect("/dashboard/home")
