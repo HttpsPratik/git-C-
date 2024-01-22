@@ -9,7 +9,7 @@ urlpatterns = [
     path('dashboard/home/', views.home, name="home"),
     
 
-    #For Email OTP
+    #------For Email OTP------------#
     # path('signup/', views.signup),
     path("", views.index, name="index"),
     path("register", views.signup, name="register"),
@@ -20,7 +20,8 @@ urlpatterns = [
     # # path('code/', views.code,name="code"),
     # path('logout/', views.logout,name="logout"),
     
-    #For CRUD
+    #---------For CRUD----------#
+    path('dashboard/home',views.home),
     path('dashboard/add-adoption/',views.add_adoption),
     path('delete-dashboard/<int:name>',views.delete_dashboard),
     path('update-dashboard/<int:name>',views.update_dashboard),

@@ -15,10 +15,9 @@ from django.contrib.auth import authenticate,login,logout,get_user_model
 def index(request):
     return render(request, 'index.html')
 
-def home(request):
-    # dashboard = Comment.objects.all()
-    return render(request, 'dashboard/home.html')#{'dashboard':dashboard}
 
+
+#-------For Email OTP--------#
 
 def signup(request):
     form = RegisterForm()
@@ -143,6 +142,12 @@ def signin(request):
 
 
 
+
+#---------For CRUD---------------#
+def home(request):
+    # dashboard = Comment.objects.all()
+    return render(request, 'dashboard/home.html')#{'dashboard':dashboard}
+
 def add_adoption(request):
   if request.method=='POST':
     print ("Added")
@@ -159,7 +164,7 @@ def add_adoption(request):
     s.image = dashboard_image
     
     s.save()
-    return redirect("/dashboard/home/")
+    return redirect("/dashboard/home")
   
 
   return render(request, 'dashboard/add_adoption.html',{})
